@@ -1,4 +1,4 @@
-// Write your solution here!
+
 
 //Add the cat "Ralph" to the end of the array.
 const cats =["Milo", "Otis", "Garfield"];
@@ -10,18 +10,18 @@ const cats =["Milo", "Otis", "Garfield"];
 cats.unshift("Bob");
 console.log(cats)
 
-//Remove the last cat name
+//Remove the last cat name from the array
 const cats =["Milo", "Otis", "Garfield"];
 cats.pop("Garfield");
 console.log(cats)
 
-//Remove the first cat name
+//Remove the first cat name from the array
 const cats =["Milo", "Otis", "Garfield"];
 cats.shift("Milo");
 console.log(cats)
 
 
-//Add cat "Broom" to the last
+//Add cat "Broom" to the last 
 const cats =["Milo", "Otis", "Garfield"];
 cats.push("Broom");
 console.log(cats)
@@ -32,7 +32,7 @@ const cats =["Milo", "Otis", "Garfield"];
 cats.unshift("Arnold");
 console.log(cats)
 
-//Remove  the last cat
+//Remove  the last name from the array
 const cats =["Milo", "Otis", "Garfield"];
 cats.pop("Garfield");
 console.log(cats)
